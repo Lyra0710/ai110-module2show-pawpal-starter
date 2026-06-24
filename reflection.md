@@ -1,7 +1,10 @@
 # PawPal+ Project Reflection
 
 ## 1. System Design
-
+User should be able to perform the following core tasts:<br>
+- Manage Tasks: Such as add or delete tasks like feeding, walking, etc. 
+- Set Constraints: Time contraints, priority. 
+- Generate Daily Plan: Create a task list based on constraints. 
 **a. Initial design**
 
 - Briefly describe your initial UML design.
