@@ -6,6 +6,7 @@ User should be able to perform the following core tasks:<br>
 - Set Constraints: Time contraints, priority. 
 - Generate Daily Plan: Create a task list based on constraints. 
 <br>
+
 **a. Initial design**
 
 - Briefly describe your initial UML design.
